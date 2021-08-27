@@ -1,0 +1,1 @@
+﻿az ad group create --display-name "Developers" --mail-nickname "Developers" --description "Dev team members"
