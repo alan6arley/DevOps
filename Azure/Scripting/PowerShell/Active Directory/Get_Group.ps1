@@ -1,0 +1,1 @@
+﻿Get-ADGroup -Identity 'Developers'

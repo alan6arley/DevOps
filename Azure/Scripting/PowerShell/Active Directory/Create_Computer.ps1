@@ -1,0 +1,1 @@
+﻿New-ADComputer -Name "FrontIIS_2" -SamAccountName "FrontIIS_2" -Path "CN=Computers,DC=myadforest,DC=local" -Enabled $True -Location "Redmond,WA"

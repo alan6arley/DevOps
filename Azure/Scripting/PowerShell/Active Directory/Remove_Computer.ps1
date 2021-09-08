@@ -1,0 +1,1 @@
+﻿Remove-ADComputer -Identity "FrontIIS_2"

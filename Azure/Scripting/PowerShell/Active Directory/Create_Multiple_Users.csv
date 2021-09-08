@@ -1,0 +1,3 @@
+﻿FirstName;Initials;Lastname;Username;Email;StreetAddress;City;ZipCode;State;Country;Department;Password;Telephone;JobTitle;Company;OU
+Aria;AS;Smith;Aria.Smith;Aria.Smith@mail.com;72 Alto St;Paris;BX5 WXA;Paris;France;Sales;X+t7u-A6;1122334455;Sales Agent;AutoTechX;CN=Users,DC=myadforest,DC=local
+John;AS;Carter;John.Carter;John.Carter@mail.com;UnderSea 16th Av;Texas;77500;United States;France;Sales;X+t7u-A6;5544332211;DevOps;AutoTechX;CN=Users,DC=myadforest,DC=local

@@ -1,0 +1,1 @@
+﻿Remove-ADOrganizationalUnit -Identity "OU=ITAdmins,DC=myadforest,DC=local" -Recursive

@@ -1,0 +1,1 @@
+﻿New-ADUser -Name "Mirage Smith" -GivenName "Mirage" -Surname "Smith" -SamAccountName "MirageSmith" -UserPrincipalName "mirage_s@myadforest.local" -Path "CN=Users,DC=myadforest,DC=local" -AccountPassword(Read-Host -AsSecureString "Input Password") -Enabled $true

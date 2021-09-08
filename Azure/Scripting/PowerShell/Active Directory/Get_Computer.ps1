@@ -1,0 +1,1 @@
+﻿Get-ADComputer -Identity "FrontIIS_2" -Properties *
